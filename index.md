@@ -9,6 +9,8 @@
 
 I'm learning Programming at HTL Bulme.
 
+---
+
 ### Testing some things
 * Nummer 1
 * Nummer 2
