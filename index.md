@@ -1,5 +1,5 @@
 # Max Hierzer
-### Learning Programing
+### Learning Programming
 
 ### Languages I'm learning
 
